@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label">Application incroyable</string>
+    <string name="edit_message">Entrez un message</string>
+    <string name="error_message">Erreur</string>
+    <string name="error_empty_message">Message vide</string>
+    <string name="button_send">Envoyer</string>
+    <string name="button_back">Retour</string>
+    <string name="button_exit">Quitter</string>
+    <string name="button_rotate">Ooh</string>
+    <string name="bienvenue_sur_mon_app">Bienvenue sur mon app</string>
+    <string name="show_image">Montrer image</string>
+    <string name="some_image">Some image</string>
+</resources>

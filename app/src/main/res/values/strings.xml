@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label">Awesome app</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="error_message">Error</string>
+    <string name="error_empty_message">Empty message</string>
+    <string name="button_send">Send</string>
+    <string name="button_back">Back</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_rotate">Ooh</string>
+    <string name="bienvenue_sur_mon_app">Bienvenue sur mon app</string>
+    <string name="show_image">Show image</string>
+    <string name="some_image">Some image</string>
+</resources>
